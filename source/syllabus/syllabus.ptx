@@ -101,9 +101,9 @@
     <paragraphs>
       <title>Required Course Materials</title>
       <p>
-        All course documents, materials, and assignments will be posted on MyOpenMath, a free online course management system specifically designed for mathematics. 
+        All course documents, materials, and assignments will be posted on <url href="https://www.myopenmath.com">MyOpenMath (MOM) </url>, a free online course management system specifically designed for mathematics. 
         Course material will be presented through instructor-created videos available on MyOpenMath. 
-        A textbook is not required, though we will loosely follow the free open-source textbook ``Calculus (Volume 2)'' by Strang and Herman; 
+        A textbook is not required, though we will loosely follow the free open-source textbook "Calculus (Volume 2)" by Strang and Herman; 
         links to both an online version and a downloadable PDF will be posted on MyOpenMath.
       </p>
     </paragraphs>
@@ -126,20 +126,20 @@
       <p>
         This is a blended asynchronous course which combines asynchronous online work and in-person exams. 
         All direct learning of course material will be done independently using a series of instructor-created videos. 
-        This allows you to work on your own schedule and at your own pace throughout the week (while meeting deadlines) with the ability to go back and review material as needed. 
+        This allows you to work on your own schedule and at your own pace throughout the summer session (while meeting deadlines) with the ability to go back and review material as needed. 
         It is strongly encouraged you try to work on course material each day throughout the week. 
         The course is broken up into 11 units, due on most Tuesdays and Fridays throughout the session; each unit is roughly equivalent to a full week of a normal semester. 
-        The typical unit will cover two topics from calculus, and will consist of the following:
+        The typical unit will cover two major topics from calculus, and will consist of the following:
       </p>
       <ul>
         <li>
           <p>
-            A series of videos posted on MyOpenMath presenting the course content (optional readings will also be provided, though they don't align precisely with the videos).
+            A series of videos posted on MyOpenMath presenting the course content.
           </p>
         </li>
         <li>
           <p>
-            Two online homework sets (one for each topic) completed on MyOpenMath. 
+            Two online homework sets, one for each topic, completed on MyOpenMath. 
           </p>
         </li>
         <li>
@@ -173,7 +173,7 @@
         Each student will be given 15 LatePasses to use as they wish throughout the course, with the caveat that only one LatePass can be used on any single assignment. 
         LatePasses cannot be used on an online homework set that you view in 'Practice' mode prior to redeeming the LatePass. 
         If circumstances require a more substantial extension, contact your instructor as soon as possible to discuss this possibility; 
-        documentation of the circumstances is required. 
+        documentation of the circumstances will be required. 
       </p>
     </paragraphs>
 
@@ -196,7 +196,7 @@
         If you miss a problem and want to improve your score, you can click the 'Try a similar problem' link, which will give you a new question of the same type. 
         You can continue working on versions of a question until you get it correct. 
         You must earn at least 50% on an assignment for your score to count towards your grade; any set on which you earn less than 50% will be counted as a 0. 
-        Assignments will remain available in "Practice" mode after their due date to provide additional practice of concepts; 
+        Assignments will remain available in 'Practice' mode after their due date to provide additional practice of concepts; 
         new versions of problems can be generated and answered, but scores will not be saved. 
         Be aware that opening an online homework assignment in 'Practice' mode will disqualify you from being able to redeem a LatePass on that assignment!
       </p>
@@ -204,7 +204,7 @@
         Although you will be entering only answers, I encourage you to work out each problem carefully on paper. 
         This will help you follow your reasoning when you are reviewing for quizzes/exams. 
         I strongly encourage you to start each assignment right away so you will have ample time to ask questions about each assignment. 
-        The exercises are intended to both provide practice of concepts covered in the videos as well as extend these concepts beyond what is done in the videos -- 
+        The exercises are intended to both provide practice of concepts covered in the videos as well as extend these concepts beyond what is done in the videos - 
         in particular, you should expect to find some of the exercises difficult. 
         Many quiz/exam problems will be based on the homework exercises, including the more difficult ones, 
         so you should aim to understand the underlying idea for each assigned exercise. 
@@ -221,7 +221,7 @@
       <title>Written Homework</title>
       <p>
          Each unit will include a written homework set posted on MyOpenMath, due by 11:59pm on Tuesdays and Fridays, according to the schedule. 
-         Solutions to all problems should be written up neatly, include all relevant work, and use proper notation (such as the examples in the videos or other resources). 
+         Solutions to all problems should be written up neatly, include all relevant work, and use proper notation, like the examples in the videos. 
          While obtaining a correct answer is important, you may lose points even when an answer is correct if you 
          did not provide adequate work or use proper notation in your solution. 
          Every written homework set should be submitted to MyOpenMath as a single PDF. 
@@ -258,7 +258,7 @@
         </li>
         <li>
           <p>
-            The cumulative final exam will be on Tuesday, June 30, 9:00am--12:00pm. 
+            The cumulative final exam will be on Wednesday, July 1, 9:00am--12:00pm. 
           </p>
         </li>
       </ul>
@@ -274,7 +274,7 @@
       <title>Grade Allocation</title>
       <p>
         Your course grade will be determined by the following distribution. 
-        <alert>You must get at least a 50% on the final exam in order to pass the class.</alert>
+        <alert>Note that you must get at least a 50% on the final exam in order to pass the class.</alert>
       </p>
       <tabular>
             <row header="yes">
@@ -387,6 +387,7 @@
         This is a 4-credit summer course, which means there should be 8 learning hours per week (a fully face-to-face section of the course would be required to meet 8 hours per week). 
         A general rule in all college courses is for each hour of class per week you spend a minimum of two hours outside of class on homework, studying, reading the text, etc. 
         Since this course has 8 online learning hours per week, you should plan to spend an additional 16 hours (for a total of at least 24 hours) working on calculus per week.
+        This will, of course, vary for every student.
       </p>
     </paragraphs>
 
@@ -440,19 +441,19 @@
     <paragraphs>
       <title>Instructor Rights</title>
       <p>
-        <alert> As the instructor of this course, I reserve the right to make changes to the above course policies at any time. All changes will be announced in class.</alert>
+        <alert> As the instructor of this course, I reserve the right to make changes to the above course policies at any time. All changes will be announced via email.</alert>
       </p>
     </paragraphs>
     
   </subsubsection>
 
   <subsection xml:id="subsec-slos-lasc">
-    <title>Student Learning Outcomes and LASC Information</title>
+    <title>Student Learning Outcomes and LASC</title>
 
     <paragraphs>
       <title>Student Learning Outcomes</title>
       <p>
-        After successfully completing this course, students will be able to...
+        After successfully completing this course, students will be able to ...
       </p>
       <ol>
         <li>
@@ -562,10 +563,9 @@
   <subsection xml:id="subsec-schedule">
     <title>Course Schedule</title>
     <p>
-      The following table indicates the due dates for all online homework assignments, 
-      written homework sets, and online quizzes, as well as the dates for the in-person exams. 
-      Note:  the last day to drop the course is <alert> [insert date]</alert>, and 
-      the last day to withdrawal or elect pass/fail status is <alert> [insert date] </alert>. 
+      The following table indicates the due dates for all assignments as well as the dates for the in-person exams. 
+      Note that the last day to drop the course is <alert> Tuesday, May 26</alert>, and 
+      the last day to withdraw or elect pass/fail status is <alert> Friday, June 5 </alert>. 
     </p>
     <tabular halign="center" bottom="medium">
       <row header="yes">
@@ -577,7 +577,7 @@
         <cell>May 18</cell>
         <cell></cell>
         <cell>
-          <line>HW 1A:  <m>u</m>-substitution</line>
+          <line>HW 1A:  Substitution</line>
           <line>HW 1B:  Integration by Parts</line>
           <line>Written HW 1</line>
         </cell>
@@ -655,7 +655,7 @@
         <cell>
           <line>Quiz 5:  Units 9 and 10 (due Monday 6/29)</line>
           <line></line>
-          <line><alert>Final Exam</alert> </line>
+          <line><alert>Final Exam (Wed 7/1)</alert> </line>
           <line>9:00am - 12:00pm, Sullivan 136</line>
         </cell>
         <cell>
