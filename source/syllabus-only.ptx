@@ -1,0 +1,8 @@
+<pretext>
+  <article>
+    <title>Course Syllabus</title>
+
+    <xi:include href="syllabus/syllabus.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  </article>
+</pretext>
