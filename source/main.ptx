@@ -20,7 +20,7 @@
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
-    <chapter xml:id="course-notes">
+    <!-- <chapter xml:id="course-notes">
       <title>Course Notes</title>
 
       <introduction>
@@ -32,12 +32,12 @@
 
       <xi:include href="./notes/week01.ptx"/>
       <xi:include href="./notes/week02.ptx"/>
-      <!-- etc. -->
-
-    </chapter>
 
 
-    <chapter xml:id="activities">
+    </chapter> -->
+
+
+    <!-- <chapter xml:id="activities">
       <title>In-Class Activities</title>
 
       <introduction>
@@ -46,25 +46,18 @@
         </p>
       </introduction>
 
-      <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/01-intro-activity.ptx"/>
 
-      <!-- Add more xi:include files here to include them in the main course -->
-    </chapter>
+    </chapter> -->
 
-    <chapter xml:id="handouts">
+    <!-- <chapter xml:id="handouts">
       <title>Handouts</title>
-      <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
-    </chapter>
+    </chapter> -->
 
-    <chapter xml:id="homework">
+    <!-- <chapter xml:id="homework">
       <title>Homework</title>
 
-      <!-- Include homework files -->
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
-
-    </chapter>
+    </chapter> -->
 
     <!-- Include additional chapters for other categories -->
 
